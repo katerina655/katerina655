@@ -1,16 +1,19 @@
-## Hi there 👋
+# Γεια σου! 👋
+Είμαι η Κατερίνα.
 
-<!--
-**katerina655/katerina655** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Σπουδάζω Πληροφορική στο Πανεπιστήμιο Πειραιά.
+💻 Ασχολούμαι με προγραμματισμό και ανάπτυξη λογισμικού.
+Αυτήν την περιόδο ασχολούμαι με διάφορα projects και ομαδικές εργασίες, για να αναπτύξω τις γνώσεις μου.
 
-Here are some ideas to get you started:
+## Ενδιαφέροντά μου:
+- Web Development
+- Databases
+- Software Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Στόχοι μου:
+Να αποκτήσω εμπειρία μέσα από πραγματικά projects και συνεργασίες.
+
+
+## Επικοινωνία:
+Email: anargiroukaterina@gmail.com
+LinkedIn: 
